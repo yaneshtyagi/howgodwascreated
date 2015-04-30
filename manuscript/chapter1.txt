@@ -1,2 +1,20 @@
 # Chapter 1 
 This is the initial leanpub setup. I haven't began writing this book yet.
+
+Simple Markdown Tutorial
+
+# Chapter Title
+
+To start a new chapter, use # followed by the chapter title on a line by itself, like this.
+
+## Section Title
+
+Double hash makes a section.
+
+**Bold**
+
+Surround your text with double astrick on each side to make it bold.
+
+*italics*
+
+single astrick surrondings make it italics.
