@@ -1,0 +1,2 @@
+# Chapter 1 
+This is the initial leanpub setup. I haven't began writing this book yet.
