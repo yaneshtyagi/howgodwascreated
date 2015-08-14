@@ -18,3 +18,5 @@ Surround your text with double astrick on each side to make it bold.
 *italics*
 
 single astrick surrondings make it italics.
+
+You need a markdown editor to view how it exactly looks like.
